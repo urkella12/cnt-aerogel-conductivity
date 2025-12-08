@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
-[🇬🇧 English version](README_EN.md)
+[🇬🇧 English version](README_en.md)
 
 ---
 
