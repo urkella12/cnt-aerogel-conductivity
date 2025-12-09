@@ -130,11 +130,11 @@ GitHub: https://github.com/[username]/cnt-aerogel-conductivity
 ## 👨‍💻 Author
 
 **Bachelor's Thesis**  
-[Your Name]  
-[University], 2025
+Grichenuk U.U.  
+MUCTR, 2025
 
-📧 [your email]  
-🔗 [@username](https://github.com/username)
+📧 urkellafortnite@gmail.com
+🔗 [@username](https://github.com/urkella12)
 
 ---
 
