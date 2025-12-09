@@ -260,7 +260,7 @@ t = 1.86 ± 0.05  (R² = 0.9989)
 ### Цитирование
 Если используете этот код, процитируйте:
 ```
-[Твоё Имя]. (2025). CNT-Aerogel Composite Electrical Conductivity Model.
+Гриченюк Ю.Ю.. (2025). CNT-Aerogel Composite Electrical Conductivity Model.
 GitHub: https://github.com/urkella/cnt-aerogel-conductivity
 ```
 
