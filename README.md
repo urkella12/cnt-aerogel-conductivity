@@ -39,17 +39,17 @@ cnt-aerogel-conductivity/
 ├── .gitignore                     
 │
 ├── current/                       # 🔥 АКТУАЛЬНАЯ ВЕРСИЯ
-│   ├── ФИНАЛ.py                   # Основной симулятор
-│   └── ФИНАЛЬНЫЙ_БАЧ_.py          # Батч-анализ (250 симуляций)
+│   ├── app.py                   # Основной симулятор
+│  
 │
 ├── data/                          # 📊 ДАННЫЕ
-│   ├── Параметры_модели_ОУНТ.xlsx           # Параметры + результаты
-│   ├── Свойства_ОУНТ_полная_база_данных.xlsx # Справочник свойств УНТ
+│   ├── Base_model_information.xlsx          # Параметры + результаты
+│   ├── Properties_CNT_full_hand_data.xlsx # Справочник свойств УНТ
 │   └── experimental/
-│       └── Экспериментальные_данные_ФИНАЛ.xlsx # Эксперимент
+│       └── experimental_data.xlsx # Эксперимент
 │
 ├── docs/                          # 📚 ДОКУМЕНТАЦИЯ
-│   └── Анализ_зависимостей.docx   # Анализ результатов
+│   └── analysis_1.docx   # Анализ результатов
 │
 └── results/                       # 🎯 РЕЗУЛЬТАТЫ (создаётся автоматически)
     └── .gitkeep
@@ -62,11 +62,11 @@ cnt-aerogel-conductivity/
 ### Требования
 ```bash
 Python >= 3.8
-numpy >= 1.20
-pandas >= 1.3
-networkx >= 2.6
-scipy >= 1.7
-openpyxl >= 3.0
+numpy>=1.20
+pandas>=1.3
+networkx>=2.6
+scipy>=1.7
+openpyxl>=3.0
 ```
 
 ### Установка
@@ -76,7 +76,7 @@ git clone https://github.com/[username]/cnt-aerogel-conductivity.git
 cd cnt-aerogel-conductivity
 
 # Установить зависимости
-pip install numpy pandas networkx scipy openpyxl
+pip install -r requirements.txt
 
 # Запустить симуляцию
 cd current
@@ -237,7 +237,7 @@ t = 1.86 ± 0.05  (R² = 0.9989)
 
 **НИР**  
 Гриченюк Ю. Ю.
-РХТУ им. Д. И. Менделеева, 2025
+РХТУ им. Д. И. Менделеева, 2026
 
 📧 Email: urkella1@gmail.com
 🔗 GitHub: [@urkella12](https://github.com/urkella12)
@@ -260,7 +260,7 @@ t = 1.86 ± 0.05  (R² = 0.9989)
 ### Цитирование
 Если используете этот код, процитируйте:
 ```
-Гриченюк Ю.Ю.. (2025). CNT-Aerogel Composite Electrical Conductivity Model.
+Гриченюк Ю.Ю.. (2026). CNT-Aerogel Composite Electrical Conductivity Model.
 GitHub: https://github.com/urkella12/cnt-aerogel-conductivity
 ```
 
@@ -277,7 +277,7 @@ GitHub: https://github.com/urkella12/cnt-aerogel-conductivity
 ## 📌 Статус проекта
 
 🎓 **НИР** — активная разработка  
-📅 **Обновлено:** Декабрь 2025  
+📅 **Обновлено:** Март 2026  
 🔒 **Доступ:** open 
 
 ---
