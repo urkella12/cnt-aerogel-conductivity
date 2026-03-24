@@ -239,7 +239,7 @@ t = 1.86 ± 0.05  (R² = 0.9989)
 Гриченюк Ю. Ю.
 РХТУ им. Д. И. Менделеева, 2025
 
-📧 Email: urkellafortnite@gmail.com
+📧 Email: urkella1@gmail.com
 🔗 GitHub: [@urkella12](https://github.com/urkella12)
 
 ---
