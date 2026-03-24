@@ -261,7 +261,7 @@ t = 1.86 ± 0.05  (R² = 0.9989)
 Если используете этот код, процитируйте:
 ```
 Гриченюк Ю.Ю.. (2025). CNT-Aerogel Composite Electrical Conductivity Model.
-GitHub: https://github.com/urkella/cnt-aerogel-conductivity
+GitHub: https://github.com/urkella12/cnt-aerogel-conductivity
 ```
 
 ---
@@ -278,7 +278,7 @@ GitHub: https://github.com/urkella/cnt-aerogel-conductivity
 
 🎓 **НИР** — активная разработка  
 📅 **Обновлено:** Декабрь 2025  
-🔒 **Доступ:** Private (по ссылке)
+🔒 **Доступ:** open 
 
 ---
 
