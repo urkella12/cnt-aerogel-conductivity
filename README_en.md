@@ -133,7 +133,7 @@ GitHub: https://github.com/[username]/cnt-aerogel-conductivity
 Grichenuk U.U.  
 MUCTR, 2025
 
-📧 urkellafortnite@gmail.com
+📧 urkella1@gmail.com
 🔗 [@username](https://github.com/urkella12)
 
 ---
