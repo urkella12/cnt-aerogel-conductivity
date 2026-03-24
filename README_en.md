@@ -134,7 +134,7 @@ Grichenuk U.U.
 MUCTR, 2025
 
 📧 urkella1@gmail.com
-🔗 [@username](https://github.com/urkella12)
+🔗 [@urkella12](https://github.com/urkella12)
 
 ---
 
